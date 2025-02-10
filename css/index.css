@@ -1,0 +1,63 @@
+
+body{
+background-color:rgba(122, 94, 3, 0.411);
+}
+.button-header {
+    background: linear-gradient(135deg, #b87b2c, #c5b7ac);
+    border: none;
+    /* border-color: white; */
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+    color: white;
+    border-radius: 8px;
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+
+.button-header:hover {
+    background: linear-gradient(135deg, #8d5a33, #85301b);
+    transform: scale(1.05);
+}
+
+.button-header:active {
+    transform: scale(0.98);
+}
+.button-products {
+    background: linear-gradient(135deg, #b87b2c, #c5b7ac);
+    /* border: none; */
+    width: 40rem;
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+    color: white;
+    border-radius: 8px;
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.button-products:hover {
+    background: linear-gradient(135deg, #8d5a33, #85301b);
+    transform: scale(1.05);
+}
+
+.button-products:active {
+    transform: scale(0.98);
+}
+.cuadrado{
+    border: 2px;
+    border-color: #8d5a33;
+    border-radius: 0%;
+    border-style: double;
+    height: 15rem;
+    margin: 2rem;
+}
+.texto-marron{
+    color: #8d5a33;
+    text-decoration-color: #8d5a33;
+}
+.fondo{
+    background-image:url("../img/fon2.jpg");
+}

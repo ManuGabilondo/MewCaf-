@@ -1,2 +1,2 @@
 # MewCaf-
-Un coffeshop con temática de gatos/A coffeshop with cats dinamic
+A coffeshop with cats dinamic / Un coffeshop con temática de gatos/
